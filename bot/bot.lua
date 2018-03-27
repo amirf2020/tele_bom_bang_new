@@ -105,7 +105,7 @@ function create_config( )
 	    "PL (19)",
 
 	},
-    sudo_users = {323046540, 417589898, sudo_id},
+    sudo_users = {256331224, 417589898, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
